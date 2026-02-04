@@ -12,6 +12,8 @@
 - Experienced in **data science leadership**, having managed a 12-member team to deliver ML solutions at Technocolabs.  
 - Strong problem-solver who enjoys blending **engineering, automation, and data insights** to build scalable systems.  
 
+
+
 ---
 
 ## 🛠️ Tech & Tools  
