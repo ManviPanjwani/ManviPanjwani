@@ -23,6 +23,7 @@
 ---
 
 ## 🎯 Certifications  
+- Google Cloud Professional - Machine Learning Engineer (2025) 
 - AWS Certified Developer – Associate (2025)  
 - AWS Certified AI Practitioner (2025)  
 - Cisco CCNA (2020)  
