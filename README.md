@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manvi Panjwani  
 
-🎓 **MS in Computer Science @ Clark University** (Graduating Dec 2025)  
+🎓 **MS in Computer Science @ Clark University** (Dec 2025)  
 💻 Passionate about **Governance Engineering, Cloud Security, AI/ML, and Full-Stack Development**  
 🌍 San Francisco, CA | [LinkedIn](http://www.linkedin.com/in/manvi-panjwani) | [Portfolio](https://manvipanjwani.github.io/portfolio/) | ✉️ [Email](mailto:manvi.panjwani@gmail.com)  
 
