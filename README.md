@@ -33,6 +33,7 @@
 ---
 
 ## 📌 Featured Projects  
+- **PocketPilot** 
 - **AI-Powered Cloud Security System** → Built an AI-driven solution for **threat detection** in containerized apps.  
 - **NutriScan (Barcode Scanner App)** → A web/mobile app that uses AI/ML to assess the **health impact** of food & cosmetic ingredients.  
 
