@@ -44,8 +44,6 @@
 
 ---
 
-
-
 ## ✨ Fun Fact  
 When I’m not coding, I love exploring **networking protocols**, experimenting with **cloud-native security**, and mentoring peers on **policy-as-code practices**.  
 
