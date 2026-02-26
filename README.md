@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 🚀 About Me  
 - Previously a **Governance Engineer Intern @ GSK**, building **policy-as-code** solutions with Open Policy Agent (OPA) and CI/CD automation.  
 - Previously **Associate Software Engineer @ Nokia**, working on **network service platforms (NSP)**, node discovery, and performance optimization.  
