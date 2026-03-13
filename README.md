@@ -15,7 +15,6 @@
 ---
 
 
-
 ## 🛠️ Tech & Tools  
 **Languages:** Python, Java, C/C++, Go, TypeScript, JavaScript, React, Next.js, SQL, R  
 **Cloud & DevOps:** AWS, Kubernetes, Docker, Terraform, GitHub Actions, Ansible, Linux, Google Cloud
