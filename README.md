@@ -16,36 +16,11 @@
 ## About me
 
 - 🎓 MS in Computer Science from **Clark University** and BTech in Computer Science from **Amity University**
-- 🤖 Research experience in multi-agent AI, reinforcement learning, evaluation, observability, and human-agent alignment
-- 🔐 Governance engineering experience with OPA/Rego, Terraform, CI/CD, and compliance automation
-- 🌐 Software engineering experience across distributed network management, automation, and Linux-based systems
+- 🤖 Former **Visiting Researcher at Softmax**, studying multi-agent AI, reinforcement learning, evaluation, and human-agent alignment
+- 🔐 Former **Governance Engineer Intern at GSK**, building policy-as-code and compliance automation with OPA/Rego, Terraform, and CI/CD
+- 🌐 Former **Associate Software Engineer at Nokia**, working on distributed network management, automation, and Linux-based systems
+- 🛠️ Former **Graduate Engineer Trainee Intern at Nokia**, researching NSP architecture and documenting system workflows
 - 📍 Based in San Francisco, California
-
-## Experience
-
-### Visiting Researcher · Softmax
-*January 2026 - March 2026 · San Francisco, California*
-
-- Applied reinforcement learning to multi-agent AI systems in virtual environments to study coordination, decision-making, and human-agent alignment.
-- Built evaluation and observability pipelines for large-scale experiments, including the CoGames Alignment League benchmark.
-- Analyzed agent behavior and interaction patterns to improve robustness and alignment outcomes.
-
-### Governance Engineer Intern · GSK
-*May 2025 - August 2025 · Cambridge, Massachusetts*
-
-- Implemented policy-as-code workflows with Open Policy Agent and Rego to automate real-time governance and compliance checks.
-- Contributed to GitHub CI/CD workflows and low-code Terraform deployment strategies that streamlined integration and onboarding.
-
-### Associate Software Engineer · Nokia
-*July 2022 - January 2024 · Bengaluru, India*
-
-- Worked on large-scale distributed network management systems, improving reliability and operational efficiency across production environments.
-- Diagnosed TCP/IP, routing, node-management, and Linux service issues and developed automation for configuration, monitoring, and validation.
-
-### Graduate Engineer Trainee Intern · Nokia
-*March 2022 - June 2022 · Bengaluru, India*
-
-- Researched Network Services Platform architecture and documented system workflows and requirements to improve onboarding and cross-functional communication.
 
 ## Featured projects
 
