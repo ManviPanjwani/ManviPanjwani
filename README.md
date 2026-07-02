@@ -4,7 +4,7 @@
 
 ### Software Engineer · Cloud & Governance Engineering · Applied AI
 
-I build secure, scalable systems at the intersection of cloud infrastructure, policy-as-code, and AI.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+secure%2C+scalable+cloud+systems;Automating+governance+with+policy-as-code;Turning+AI+ideas+into+useful+products)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://manvipanjwani.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvi-panjwani)
@@ -48,13 +48,29 @@ I build secure, scalable systems at the intersection of cloud infrastructure, po
 
 ## GitHub activity
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManviPanjwani&theme=github" alt="Manvi's GitHub statistics" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManviPanjwani&theme=github" alt="Manvi's top languages by repository" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-![Manvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManviPanjwani&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManviPanjwani&layout=compact&hide_border=true&theme=transparent)
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManviPanjwani&theme=github" alt="Manvi's contribution activity" />
 </div>
+
+<details>
+  <summary><strong>More GitHub insights</strong></summary>
+  <br />
+  <div align="center">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManviPanjwani&theme=github" alt="Most-used languages by commit" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManviPanjwani&theme=github&utcOffset=-7" alt="Most productive commit time" />
+  </div>
+</details>
 
 ---
 
