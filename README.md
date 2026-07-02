@@ -62,6 +62,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img width="680" height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=ManviPanjwani&amp;bg_color=transparent&amp;color=6B7280&amp;line=7C3AED&amp;point=7C3AED&amp;area=true&amp;area_color=DDD6FE&amp;hide_border=true&amp;height=200&amp;radius=8" alt="Manvi's contribution activity" />
+</div>
+
 ---
 
 <div align="center">
