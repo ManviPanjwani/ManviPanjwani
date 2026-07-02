@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManviPanjwani&theme=github" alt="Manvi's GitHub statistics" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManviPanjwani&amp;hide_border=true&amp;background=00000000&amp;ring=7C3AED&amp;fire=7C3AED&amp;currStreakLabel=7C3AED" alt="Manvi's GitHub streak" />
     </td>
     <td width="50%" align="center">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManviPanjwani&theme=github" alt="Manvi's top languages by repository" />
@@ -60,17 +60,8 @@
 </table>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManviPanjwani&theme=github" alt="Manvi's contribution activity" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManviPanjwani&amp;bg_color=transparent&amp;color=7C3AED&amp;line=7C3AED&amp;point=6B7280&amp;area=true&amp;hide_border=true" alt="Manvi's contribution graph" />
 </div>
-
-<details>
-  <summary><strong>More GitHub insights</strong></summary>
-  <br />
-  <div align="center">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManviPanjwani&theme=github" alt="Most-used languages by commit" />
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManviPanjwani&theme=github&utcOffset=-7" alt="Most productive commit time" />
-  </div>
-</details>
 
 ---
 
