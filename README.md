@@ -15,11 +15,37 @@
 
 ## About me
 
-- 🎓 MS in Computer Science, Clark University — December 2025
-- 🔐 Former Governance Engineer Intern at **GSK**, building policy-as-code solutions with OPA and CI/CD automation
-- 🌐 Former Associate Software Engineer at **Nokia**, working on network service platforms, node discovery, and performance optimization
-- 📊 Led a 12-person data science team delivering machine-learning solutions at **Technocolabs**
+- 🎓 MS in Computer Science from **Clark University** and BTech in Computer Science from **Amity University**
+- 🤖 Research experience in multi-agent AI, reinforcement learning, evaluation, observability, and human-agent alignment
+- 🔐 Governance engineering experience with OPA/Rego, Terraform, CI/CD, and compliance automation
+- 🌐 Software engineering experience across distributed network management, automation, and Linux-based systems
 - 📍 Based in San Francisco, California
+
+## Experience
+
+### Visiting Researcher · Softmax
+*January 2026 - March 2026 · San Francisco, California*
+
+- Applied reinforcement learning to multi-agent AI systems in virtual environments to study coordination, decision-making, and human-agent alignment.
+- Built evaluation and observability pipelines for large-scale experiments, including the CoGames Alignment League benchmark.
+- Analyzed agent behavior and interaction patterns to improve robustness and alignment outcomes.
+
+### Governance Engineer Intern · GSK
+*May 2025 - August 2025 · Cambridge, Massachusetts*
+
+- Implemented policy-as-code workflows with Open Policy Agent and Rego to automate real-time governance and compliance checks.
+- Contributed to GitHub CI/CD workflows and low-code Terraform deployment strategies that streamlined integration and onboarding.
+
+### Associate Software Engineer · Nokia
+*July 2022 - January 2024 · Bengaluru, India*
+
+- Worked on large-scale distributed network management systems, improving reliability and operational efficiency across production environments.
+- Diagnosed TCP/IP, routing, node-management, and Linux service issues and developed automation for configuration, monitoring, and validation.
+
+### Graduate Engineer Trainee Intern · Nokia
+*March 2022 - June 2022 · Bengaluru, India*
+
+- Researched Network Services Platform architecture and documented system workflows and requirements to improve onboarding and cross-functional communication.
 
 ## Featured projects
 
@@ -32,11 +58,13 @@
 
 ## Technical toolkit
 
-**Languages:** Python · Java · Go · C/C++ · TypeScript · JavaScript · SQL · R
+**AI & LLM:** RAG · Agentic workflows · LangChain · LangGraph · Multi-agent systems · Function calling · Structured outputs · Evaluation pipelines
+
+**Languages:** Python · Java · Go · C/C++ · TypeScript · JavaScript · SQL · R · Swift
 
 **Cloud, infrastructure & governance:** AWS · Google Cloud · Kubernetes · Docker · Terraform · GitHub Actions · Ansible · OPA/Rego · Linux
 
-**Applications & data:** React · Next.js · FastAPI · PostgreSQL · MySQL · Snowflake · Spark · Redis · Tableau
+**Applications & data:** React · Next.js · Angular · React Native · FastAPI · PostgreSQL · MySQL · Snowflake · Spark · Redis · Firebase
 
 ## Certifications
 
