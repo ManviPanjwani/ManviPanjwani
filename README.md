@@ -46,22 +46,18 @@
 - Cisco Certified Network Associate (CCNA) — 2020
 - IBM Python for Data Science & Machine Learning — 2021
 
-## GitHub activity
+## GitHub at a glance
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManviPanjwani&amp;hide_border=true&amp;background=00000000&amp;ring=7C3AED&amp;fire=7C3AED&amp;currStreakLabel=7C3AED" alt="Manvi's GitHub streak" />
+    <td align="center">
+      <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManviPanjwani&amp;theme=github" alt="Manvi's GitHub statistics" />
     </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManviPanjwani&theme=github" alt="Manvi's top languages by repository" />
+    <td align="center">
+      <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManviPanjwani&amp;theme=github" alt="Manvi's top languages by repository" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManviPanjwani&amp;bg_color=transparent&amp;color=7C3AED&amp;line=7C3AED&amp;point=6B7280&amp;area=true&amp;hide_border=true" alt="Manvi's contribution graph" />
-</div>
 
 ---
 
