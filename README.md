@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # Hi, I'm Manvi Panjwani 👋
 
 ### Software Engineer · Cloud & Governance Engineering · Applied AI
