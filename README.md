@@ -2,6 +2,7 @@
 
 # Hi, I'm Manvi Panjwani 👋
 
+
 ### Software Engineer · Cloud & Governance Engineering · Applied AI
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+secure%2C+scalable+cloud+systems;Automating+governance+with+policy-as-code;Turning+AI+ideas+into+useful+products)](https://git.io/typing-svg)
